@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xTool", "xTool.csproj", "{DE77C13C-D7DD-437E-86A8-4C2870FBB536}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FEB2C8EB-2E16-4DFA-BE8E-5C091FE85D3E}"
+	ProjectSection(SolutionItems) = preProject
+		case_icon_251269.ico = case_icon_251269.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE77C13C-D7DD-437E-86A8-4C2870FBB536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE77C13C-D7DD-437E-86A8-4C2870FBB536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE77C13C-D7DD-437E-86A8-4C2870FBB536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE77C13C-D7DD-437E-86A8-4C2870FBB536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D794E084-A2A3-48E8-88D6-07A02024F9B7}
+	EndGlobalSection
+EndGlobal
